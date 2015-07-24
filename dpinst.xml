@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<dpInst>
+
+    <search>
+        <subDirectory>drivers</subDirectory>
+    </search>
+    <enableNotListedLanguages/>
+    <quietInstall/>
+    <suppressWizard/>
+    <suppressEulaPage/>
+    <legacyMode/>
+</dpInst>
+
